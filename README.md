@@ -7,9 +7,9 @@
 
 <p>
 Hii! So good to see you here. <br>
-I'm  <strong>Eloisa</strong>, i love problem solver :purple_heart:		<br>
+I'm  <strong>Eloisa</strong>, i  love solving problems :purple_heart:		<br>
 I am frontend developer  also,  undergraduate student in systems analysis and development.<br>
-Start to code bring me life and dreams about  I want to do. 
+Start to code bring me life and dreams about I want to do. 
 
 <p align="center">
   💌 Contact me: 
